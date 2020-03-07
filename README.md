@@ -2,7 +2,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Added optionals from last lab like round corners, shadows and gave app another page to add questions and answers!
+Added optionals from last lab like round corners, shadows and gave app another page to add questions and answers!
 
 ### App Walk-though
 
@@ -21,7 +21,6 @@
 # Flashcard
 2nd project. (: very happy! Edited: Lab 2 is awesome!
 
-## Flashcard App
 
 ## Lab 1
 
