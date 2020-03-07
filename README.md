@@ -2,7 +2,7 @@
 ## Lab 2
 
 ### App Description
-Added optionals from last lab like round corners, shadows and gave app another page to add questions and answers!
+Added rounded corners, shadows and gave app another page to add questions and answers!
 
 ### App Walk-though
 
